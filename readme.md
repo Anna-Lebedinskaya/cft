@@ -9,5 +9,5 @@
 4. остальные параметры - имена входных файлов, не менее одного.
 
 Примеры запуска из командной строки терминала:
-javac Solution.java
-java Solution -i -a out.txt int1.txt int2.txt int3.txt
+1. javac Solution.java
+2. java Solution -i -a out.txt int1.txt int2.txt int3.txt
